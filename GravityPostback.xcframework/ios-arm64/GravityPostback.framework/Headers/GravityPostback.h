@@ -23,6 +23,7 @@
 @property(nonatomic,strong)NSString * _Nullable gravityClientId;
 @property(nonatomic,strong)NSString * _Nullable gravityClientName;
 @property(nonatomic,strong)NSString * _Nullable gravityAccessToken;
+@property(nonatomic,strong)NSString * _Nullable gravityCaid;
 @property(nonatomic,assign)BOOL gravityNeedReturnAttribution;
 
 @property(nonatomic,strong)NSString * _Nullable gdtUserActionSetId;
